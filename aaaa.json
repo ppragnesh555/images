@@ -1,0 +1,177 @@
+{		
+	"com.bitlinks.pakistan.iptv.m3ulist": 	
+	{	
+		
+	"app_logo":	"https://play-lh.googleusercontent.com/33_mPNzvE6WRV6czGRm8EhSrSh0G9wnRQRfMXfcqQLU8j3z4UYu7nrgw5SmaP9UFf0U=s180-rw",
+	"app_title":	"YOYO: Live Random Video Chat",
+		
+	"ads_sequence": [	
+		"ad_manager"		
+	],	
+	"more_app_url": "https://play.google.com/store/apps/developer?id=Bit+Links", 	
+	"extra_url": "https://gitlab.com/bitcodingsolutions/iptv_channels/-/raw/main/Live_Channels/Original/Pakistan.json", 	
+	"more_live_apps":"https://gitlab.com/vs.bitcoding/live_apps/-/raw/main/live_apps.json", 	
+	"iptv_player_url": "com.pocketiptv",	
+	"ad_setting": {	
+		
+		"app_version_code": 3,
+		"is_geoedge_sdk_flag": true,
+        "geoedge_sdk_key": "e48e8542-d4e4-4e34-a593-c3ae45d7ea4b",
+		"is_full_ads": false,
+		"onesignal_id": "07de0128-c4bc-45f0-8baa-6867a262a6b7", 
+		"ads_loading_text": "Ad is loading...",
+		"seconds_require_triger_reward": 25,
+		"global_intra_interval_click": 3,
+		"interstitial_ad_time_interval": 0,
+		"native_ad_list_interval": 3
+	},	
+	"app_update": {	
+		"is_popup_dialog": true,
+		"is_update_require": false,
+		"package_id": "com.adult.iptv.hot.playlist", 
+		"website_url": "https://play.google.com/store/apps/details?id=com.adult.iptv.hot.playlist", 
+		"app_icon": "https://play-lh.googleusercontent.com/DFrL4OmwEWMQnRjs9tBcekNn6DYrlehENI0aAD5XphVvenROVKOon7sfLf84YhmyM08=w240-h480-rw",
+		"updated_version_code": 50,
+		"title": "Enjoy Free Naughty Videos",
+		"default_message": "Don’t Feel Alone"
+	},	
+	"exit_dialog": {	
+		"is_exit_require": true,
+		"exit_title": "Exit",
+		"exit_message": "Do you want to exit from App?"
+	},	
+	"reward_dialog": {      	
+		"is_reward_require": true,
+		"reward_message": "Watch Reward ads for More Random Video call"
+	},     	
+		
+	"About_App": {	
+		"is_override": false,
+		"is_about_app": true,
+		"about_title": "Pakistan IPTV Links m3u Playlists", 
+		"about_message": "Your app need an Update!",
+		"registration_detail": "Pakistan IPTV Links m3u Playlists", 
+		"version_detail": "version : 1.0.0"
+	},	
+	"rate_app": {	
+		"is_rate_app": true,
+		"package_id": "com.bitlinks.pakistan.iptv.m3ulist", 
+		"rate_app_url": "https://play.google.com/store/apps/details?id=com.bitlinks.pakistan.iptv.m3ulist", 
+		"rate_message": "Please Rate us and promote us."
+	},	
+	"share_app": {	
+		"is_share_app": true,
+		"share_title": "Share link url :https://play.google.com/store/apps/details?id=com.bitlinks.pakistan.iptv.m3ulist", 
+		"share_message": "Now anyone can get Pakistan IPTV Links m3u Playlists app : https://play.google.com/store/apps/details?id=com.bitlinks.pakistan.iptv.m3ulist" 
+	},	
+	"privacy_policy": {	
+		"is_privacy_policy": true,
+		"is_system_browser": true,
+		"privacy_policy": "https://sites.google.com/view/bitlinksprivacypolicy/home" 
+	},	
+	"terms_of_use": {	
+		"is_terms_of_use": true,
+		"is_system_browser": true,
+		"terms_of_use": "https://sites.google.com/view/bitlinksprivacypolicy/home" 
+	},	
+	"error_report": {	
+		"is_error_report_support": true,
+		"email_id": "mailto:bitlinks.llc@gmail.com"
+	},	
+	"feedback_support": {	
+		"is_feedback_support": true,
+		"email_id":"mailto:bitlinks.llc@gmail.com",
+		"feedback_title": "Feedback on Pakistan IPTV Links m3u Playlists",
+		"feedback_message": "Hi,\n\n\nYour Feedback Pakistan IPTV Links m3u Playlists! I would like to give you some feedback:",
+		"email_subject": "Feedback on Pakistan IPTV Links m3u Playlists",
+		"email_message": "Hi,\n\n\nYour Feedback Pakistan IPTV Links m3u Playlists! I would like to give you some feedback:"
+		
+	},	
+	"google_ads1": {	
+		"banner_ad_unit_id_android": "/21753324030,22831392815/com.bitlinks.pakistan.iptv.m3ulist_Banner", 
+		"interstitial_ad_unit_id_android": "/21753324030,22831392815/com.bitlinks.pakistan.iptv.m3ulist_Interstitial", 
+		"app_open_ad_unit_id_android": "/21753324030,22831392815/com.bitlinks.pakistan.iptv.m3ulist_AppOpen", 
+		"native_ads_unit_id_android": "/21753324030,22831392815/com.bitlinks.pakistan.iptv.m3ulist_Native", 
+		"rewared_ads_unit_id": "/21753324030,22831392815/com.bitlinks.pakistan.iptv.m3ulist_Rewarded", 
+		"native_video_ads_unit_id_android": "/21753324030,22831392815/com.bitlinks.pakistan.iptv.m3ulist_Native", 
+		"is_banner_ads": true,
+		"is_open_ads": true,
+		"is_interstitial_ads": true,
+		"is_rewared_ads": true,
+		"is_native_ads": true,
+		"no_of_click_interstitial": 1
+	},	
+    "google_ads": {	
+		"banner_ad_unit_id_android": "/6499/example/banner", 
+		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
+		"app_open_ad_unit_id_android": "/6499/example/app-open", 
+		"native_ads_unit_id_android": "/6499/example/native", 
+		"rewared_ads_unit_id": "/6499/example/rewarded", 
+		"native_video_ads_unit_id_android": "/6499/example/native-video", 
+		"is_banner_ads": true,
+		"is_open_ads": true,
+		"is_interstitial_ads": true,
+		"is_rewared_ads": true,
+		"is_native_ads": true,
+		"no_of_click_interstitial": 0
+	},
+	"facebook_ads": {	
+		"banner_ad_unit_id_android": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", 
+		"interstitial_ad_unit_id_android": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", 
+		"native_ads_unit_id_android": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", 
+		"rewared_ads_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", 
+		"is_banner_ads": true,
+		"is_interstitial_ads": true,
+		"is_native_ads": true,
+		"is_rewared_ads": true,
+		"no_of_click_interstitial": 3
+	},	
+	"app_lovin": {	
+		"sdk_key_old":"l2eHJCxgHTn4tTHns3A55HzXG6ekoyDJigM2SxRmGSN6T1bNmT37tTDW0UxVBVkUepJxXKxFQ8yPMONBdyKO3A",
+		"sdk_key":"4gMXSz-Qe0J5xhqXwJcMmT7JI0AW07aPscFTtvib7ir7hpC_mGuKBqIPEHlv57iZdH4bCD2koZm4pQTRi9J999",
+		"is_unlimited_ads": true,
+		"id_unit_banner": "178add6bf2661ecb",
+		"id_unit_intra": "524351dcb224bad1",
+		"id_unit_native_multiple":  {
+		"small":"e4b26c656fd4f5ad",
+		"medium":"e4b26c656fd4f5ad",
+		"manual":"e4b26c656fd4f5ad"
+		},
+		"rewared_ads_unit_id": "6f471a889ce4c964",
+		"id_unit_open": "",
+		"is_open_ads": true,
+		"is_banner_ads": true,
+		"is_interstitial_ads": true,
+		"is_native_ads": true,
+		"is_rewared_ads": true
+	},	
+	"custom_ads": {	
+		"qureka_link": "https://490.go.qureka.com/intro/question",
+		"is_quraka_banner": true,
+		"is_quraka_intera": true,
+		"is_quraka_native": true,
+		"close_button_to_direct_web": true,
+	"quraka_intra_image": [	
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true"
+	],	
+	"quraka_native_image": [	
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+	],	
+	"quraka_banner_image": [	
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+	]	
+	}	
+	}	
+}		
